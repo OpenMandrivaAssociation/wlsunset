@@ -10,6 +10,7 @@ Group:		Window Manager/Utility
 BuildSystem:	meson
 BuildRequires:  pkgconfig(wayland-protocols)
 BuildRequires:  scdoc
+BuildRequires:  pkgconfig(wayland-scanner)
 
 %description
 %summary.
